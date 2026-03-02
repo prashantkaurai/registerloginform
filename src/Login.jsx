@@ -43,8 +43,10 @@ function Login() {
                 Register
             </Link>
         </div>
+            <p>Thanks for visiting !</p>
     </div>
     );
 }
+
 
 export default Login;
