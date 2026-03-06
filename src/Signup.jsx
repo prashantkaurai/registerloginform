@@ -49,8 +49,10 @@ function Signup() {
                     Login
                 </Link>
             </div>
+            <p>Thanks for Visiting !</p>
         </div>
     );
 }
+
 
 export default Signup;
