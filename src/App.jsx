@@ -1,5 +1,5 @@
 import React from 'react';
-import icons from "react";
+import { FaBeer } from 'react-icons/fa';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Signup from './Signup';
 import Login from './Login';
